@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TuUsuario/TuUsuario/main/banner.svg" alt="Web Developer Banner" width="900" height="150" />
+  <img src="https://raw.githubusercontent.com/AngelRamosv/AngelRamosv/main/banner.svg" alt="Web Developer Banner" width="900" height="150" />
 </p>
 
 # 👋 Hi, I'm Angel Ramos
