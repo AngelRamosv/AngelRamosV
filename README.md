@@ -1,0 +1,62 @@
+<!-- Banner / Header -->
+![Angel Ramos Banner](https://i.imgur.com/zP5L8Yc.png)
+
+# 👋 Hi, I'm Angel Ramos
+
+💻 **Mobile & Web Developer** passionate about building interactive, user-friendly applications.  
+🚀 Currently working on **MiniBot**, an educational app for learning Python fundamentals.  
+📍 From Mexico, open to collaborating on exciting projects worldwide.
+
+---
+
+## 🚀 Skills & Tools
+
+### **Languages**
+<p>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+</p>
+
+### **Frameworks & Libraries**
+<p>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular" title="Angular"/>
+  <img src="https://img.icons8.com/color/48/ionic.png" alt="Ionic" title="Ionic"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
+</p>
+
+### **Databases**
+<p>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
+</p>
+
+### **Tools**
+<p>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="DevEco Studio" title="DevEco Studio"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- **[PractiBot](https://github.com/AngelRamos/PractiBot)** → Mobile app for learning programming basics.
+- **[Reparalia](https://github.com/AngelRamos/Reparalia)** → Service management app built with Java & Spring Boot.
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:miguelangelramosc9@gmail.com"><img src="https://img.icons8.com/ios-filled/30/ffffff/email.png" alt="Email" title="Email"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
+</p>
+
+---
+
+⭐️ _Feel free to check out my repositories and connect with me!_
