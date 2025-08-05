@@ -1,28 +1,39 @@
 <svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Web Developer">
   <defs>
+    <!-- Gradiente azul a morado -->
     <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#4A90E2"/>
       <stop offset="100%" stop-color="#8E44AD"/>
     </linearGradient>
     <style>
+      /* Animación de escritura */
+      @keyframes typing {
+        from { stroke-dasharray: 0 100%; }
+        to { stroke-dasharray: 100% 0; }
+      }
+      /* Animación de la nave */
       @keyframes fly {
         0% { transform: translateX(0); }
         90% { transform: translateX(820px); }
         100% { transform: translateX(820px); }
       }
-      .ship {
-        animation: fly 4s ease-in-out forwards;
-      }
       .text {
         font-family: 'Fira Code', monospace;
         font-size: 70px;
         font-weight: 700;
-        fill: url(#grad);
+        fill: none;
+        stroke: url(#grad);
+        stroke-width: 2px;
+        stroke-dasharray: 100% 0;
+        animation: typing 4s steps(20) forwards;
+      }
+      .ship {
+        animation: fly 4s ease-in-out forwards;
       }
     </style>
   </defs>
 
-  <!-- Texto centrado -->
+  <!-- Texto centrado con efecto escritura -->
   <text x="50%" y="100" class="text" dominant-baseline="middle" text-anchor="middle">Web Developer</text>
 
   <!-- Mini nave espacial -->
