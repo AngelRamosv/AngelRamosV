@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" title="PHP"/>
 </p>
 
 ### **Frameworks & Libraries**
