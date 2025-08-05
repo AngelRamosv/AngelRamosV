@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/AngelRamosv/AngelRamosv/main/banner.svg" alt="Web Developer Banner" width="900" height="150" />
 </p>
 
-
 # 👋 Hi, I'm Angel Ramos
 
 💻 **Web Developer** passionate about building interactive, user-friendly applications.  
