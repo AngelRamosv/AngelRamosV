@@ -39,6 +39,7 @@
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="DevEco Studio" title="DevEco Studio"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" title="Linux"/>
 </p>
 
 ---
