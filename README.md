@@ -31,6 +31,7 @@
 <p>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/database.png" alt="IndexedDB" title="IndexedDB"/>
 </p>
 
 ### **Tools**
