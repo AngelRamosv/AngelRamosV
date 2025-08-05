@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Angel Ramos
 
-💻 **Mobile & Web Developer** passionate about building interactive, user-friendly applications.  
+💻 **Web Developer** passionate about building interactive, user-friendly applications.  
 🚀 Currently working on **MiniBot**, an educational app for learning Python fundamentals.  
 📍 From Mexico, open to collaborating on exciting projects worldwide.
 
@@ -54,7 +54,7 @@
 
 <p>
   <a href="mailto:miguelangelramosc9@gmail.com"><img src="https://img.icons8.com/ios-filled/30/ffffff/email.png" alt="Email" title="Email"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/angelramosc"><img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
 </p>
 
 ---
