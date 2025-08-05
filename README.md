@@ -1,5 +1,7 @@
 <!-- Banner / Header -->
-![Angel Ramos Banner](https://i.imgur.com/zP5L8Yc.png)
+<h1 align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
+  Web Developer
+</h1>
 
 # 👋 Hi, I'm Angel Ramos
 
