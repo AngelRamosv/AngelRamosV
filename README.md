@@ -1,9 +1,7 @@
 <!-- Banner / Header -->
-<!-- GitHub no soporta bien background-clip en imágenes, así que este es un fallback usando solo el color del generador -->
 <p align="center" style="margin-top: 40px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=4000&pause=9999999&color=4A90E2&center=true&vCenter=true&repeat=false&width=900&height=150&lines=Web+Developer" alt="Typing SVG" />
 </p>
-
 
 # 👋 Hi, I'm Angel Ramos
 
