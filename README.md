@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
-<h1 align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
-  Web Developer
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Web+Developer;Mobile+App+Developer;Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
 # 👋 Hi, I'm Angel Ramos
 
