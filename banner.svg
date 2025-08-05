@@ -11,12 +11,6 @@
         from { stroke-dasharray: 0 100%; }
         to { stroke-dasharray: 100% 0; }
       }
-      /* Animación de la nave */
-      @keyframes fly {
-        0% { transform: translateX(0); }
-        90% { transform: translateX(820px); }
-        100% { transform: translateX(820px); }
-      }
       .text {
         font-family: 'Fira Code', monospace;
         font-size: 70px;
@@ -27,19 +21,9 @@
         stroke-dasharray: 100% 0;
         animation: typing 4s steps(20) forwards;
       }
-      .ship {
-        animation: fly 4s ease-in-out forwards;
-      }
     </style>
   </defs>
 
-  <!-- Texto centrado con efecto escritura -->
+  <!-- Texto centrado con degradado y efecto escritura -->
   <text x="50%" y="100" class="text" dominant-baseline="middle" text-anchor="middle">Web Developer</text>
-
-  <!-- Mini nave espacial -->
-  <g class="ship" transform="translate(0,40)">
-    <path d="M32 2 L42 22 L32 42 L22 22 Z" fill="#e74c3c"/>
-    <circle cx="32" cy="22" r="5" fill="#f1c40f"/>
-    <polygon points="28,42 32,54 36,42" fill="orange"/>
-  </g>
 </svg>
