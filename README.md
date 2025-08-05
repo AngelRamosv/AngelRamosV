@@ -1,8 +1,31 @@
 <!-- Banner / Header -->
 <!-- Banner / Header -->
-<p align="center" style="margin-top: 40px;">
+<p align="center" style="margin-top: 40px; position: relative; display: inline-block;">
+  <!-- Texto animado -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=4000&pause=9999999&color=4A00E0&center=true&vCenter=true&repeat=false&width=900&height=150&lines=Web+Developer" alt="Typing SVG" />
+
+  <!-- Nave espacial SVG encima del texto -->
+  <svg style="position: absolute; top: 50px; left: 0;" width="40" height="40" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <style>
+        @keyframes fly {
+          0% { transform: translateX(0); }
+          90% { transform: translateX(860px); }
+          100% { transform: translateX(860px); }
+        }
+        .ship {
+          animation: fly 4s ease-in-out forwards;
+        }
+      </style>
+    </defs>
+    <g class="ship">
+      <path d="M32 2 L42 22 L32 42 L22 22 Z" fill="#e74c3c"/>
+      <circle cx="32" cy="22" r="5" fill="#f1c40f"/>
+      <polygon points="28,42 32,54 36,42" fill="orange"/>
+    </g>
+  </svg>
 </p>
+
 
 # 👋 Hi, I'm Angel Ramos
 
