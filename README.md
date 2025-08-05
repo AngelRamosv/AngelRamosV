@@ -1,7 +1,10 @@
 <!-- Banner / Header -->
 <p align="center" style="margin-top: 40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=4000&pause=9999999&color=4A90E2&center=true&vCenter=true&repeat=false&width=900&height=150&lines=Web+Developer" alt="Typing SVG" />
+  <!-- Lamentablemente readme-typing-svg solo soporta un color sólido -->
+  <!-- Este es el morado-azul más equilibrado que se acerca a un degradado visualmente -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=4000&pause=9999999&color=6A0DAD&center=true&vCenter=true&repeat=false&width=900&height=150&lines=Web+Developer" alt="Typing SVG" />
 </p>
+
 
 # 👋 Hi, I'm Angel Ramos
 
