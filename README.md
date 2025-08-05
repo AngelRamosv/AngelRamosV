@@ -1,7 +1,8 @@
 <!-- Banner / Header -->
-<p align="center" style="margin-top: 40px; background: linear-gradient(to right, #4A90E2, #8E44AD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 70px; font-family: 'Fira Code', monospace; font-weight: bold;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=4000&pause=9999999&color=00000000&center=true&vCenter=true&repeat=false&width=900&height=150&lines=Web+Developer" alt="Typing SVG" />
+<p align="center" style="margin-top: 40px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=4000&pause=9999999&color=4A90E0&center=true&vCenter=true&repeat=false&width=900&height=150&lines=Web+Developer" alt="Typing SVG" style="background: linear-gradient(to right, #4A90E2, #8E44AD); -webkit-background-clip: text; -webkit-text-fill-color: transparent;" />
 </p>
+
 
 
 # 👋 Hi, I'm Angel Ramos
