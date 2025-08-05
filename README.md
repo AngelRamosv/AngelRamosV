@@ -1,6 +1,7 @@
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AngelRamosv/AngelRamosv/main/banner.svg" alt="Web Developer Banner" width="900" height="150" />
+<!-- Banner / Header -->
+<p align="center" style="margin-top: 40px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=4000&pause=9999999&color=4A00E0&center=true&vCenter=true&repeat=false&width=900&height=150&lines=Web+Developer" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Angel Ramos
